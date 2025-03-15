@@ -28,6 +28,7 @@ I have finished ML specialization and applied techniques, but I have still not f
 | 4       | [Logistic-regression-sklearn](https://github.com/Creepyrishi/Logistic-regression-sklearn)               |
 | 6       | [binary-classification-logistic-regression](https://github.com/Creepyrishi/binary-classification-logistic-regression) |
 | 7       | [polynomial-regression](https://github.com/Creepyrishi/polynomial-regression)                             |
+| 8       | [House Price Detection (Following book's chapter 2) ](https://github.com/Creepyrishi/Chapter-2-project)      |
 
 ## Terminology and concepts that I heard outside given resources
 
@@ -37,3 +38,27 @@ I have finished ML specialization and applied techniques, but I have still not f
 | 2       | 1bit models             | ❌         |
 | 3       | Mamba architecture      | ❌         |
 | 4       | RWKV architecture       | ❌         |
+
+------
+
+## Day 1
+I revised Supervised learning notes that I made during ML couse
+
+------
+
+## Day 2
+I learned basic about NN:
+1. Nodes
+2. Layers
+3. Activation functions
+4. Cost functions
+5. Forward propagation
+6. Chain rule in derivative
+7. Backward propagation
+
+I have Prepared Notes about NN that can be found in my linkedin post. [Here!!!](https://www.linkedin.com/posts/rishikesh0_01-baisc-of-nn-activity-7306525249238417408-3oYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETVr1QBKissH85Z72imh8aNIFL6Kap-kp0)
+
+![image](./Basic%20of%20NN/1.png)
+![image](./Basic%20of%20NN/2.png)
+
+Together with this I have also started implementing NN form scratch but it is not yet completed. This is my goal for next day
