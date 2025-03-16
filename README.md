@@ -29,6 +29,8 @@ I have finished ML specialization and applied techniques, but I have still not f
 | 6       | [binary-classification-logistic-regression](https://github.com/Creepyrishi/binary-classification-logistic-regression) |
 | 7       | [polynomial-regression](https://github.com/Creepyrishi/polynomial-regression)                             |
 | 8       | [House Price Detection (Following book's chapter 2) ](https://github.com/Creepyrishi/Chapter-2-project)      |
+| 9       | [NN from scratch](https://github.com/Creepyrishi/NN-from-scratch)      |
+
 
 ## Terminology and concepts that I heard outside given resources
 
@@ -58,7 +60,14 @@ I learned basic about NN:
 
 I have Prepared Notes about NN that can be found in my linkedin post. [Here!!!](https://www.linkedin.com/posts/rishikesh0_01-baisc-of-nn-activity-7306525249238417408-3oYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETVr1QBKissH85Z72imh8aNIFL6Kap-kp0)
 
-![image](./Basic%20of%20NN/1.png)
-![image](./Basic%20of%20NN/2.png)
+![image](https://raw.githubusercontent.com/Creepyrishi/100-days-of-learing-ML/main/Basic%20of%20NN/2.png)
+![image](https://raw.githubusercontent.com/Creepyrishi/100-days-of-learing-ML/main/Basic%20of%20NN/2.png)
 
 Together with this I have also started implementing NN form scratch but it is not yet completed. This is my goal for next day
+
+------
+
+## Day 3
+Today I learned about the importance and implementation of vectorization. And also implemented a [NN (Neural Network) from scratch](https://github.com/Creepyrishi/NN-from-scratch).
+
+------
