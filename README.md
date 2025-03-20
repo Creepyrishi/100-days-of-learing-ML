@@ -71,3 +71,17 @@ Together with this I have also started implementing NN form scratch but it is no
 Today I learned about the importance and implementation of vectorization. And also implemented a [NN (Neural Network) from scratch](https://github.com/Creepyrishi/NN-from-scratch).
 
 ------
+
+## day 4
+Today I statred learing pytorch. Here is the [Github link](https://github.com/Creepyrishi/learning-pytorch#01-basic-of-pytorch)
+
+---
+
+## day 5 
+Today I did following things:
+- I learned about commmon problem in weight initialization in DL
+- Learned Xavier and He approach for initialization
+- Made a simple Iris Prediction using pytorch 
+- I leard about autograd in pytoch
+- I made a ANN for XOR problem using nn.sequential
+
