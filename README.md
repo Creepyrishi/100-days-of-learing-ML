@@ -30,6 +30,7 @@ I have finished ML specialization and applied techniques, but I have still not f
 | 7       | [polynomial-regression](https://github.com/Creepyrishi/polynomial-regression)                             |
 | 8       | [House Price Detection (Following book's chapter 2) ](https://github.com/Creepyrishi/Chapter-2-project)      |
 | 9       | [NN from scratch](https://github.com/Creepyrishi/NN-from-scratch)      |
+| 10      | [Customer Churn Prediction](https://github.com/Creepyrishi/Churn-Prediction)|
 
 
 ## Terminology and concepts that I heard outside given resources
