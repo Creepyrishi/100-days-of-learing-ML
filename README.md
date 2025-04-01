@@ -86,3 +86,13 @@ Today I did following things:
 - I leard about autograd in pytoch
 - I made a ANN for XOR problem using nn.sequential
 
+---
+
+## day 6
+I learned how to perform Exploratory Data Analysis (EDA), including univariate, bivariate, and multivariate analysis using various visualization techniques like histograms, boxplots, scatter plots, and heatmaps to understand data distribution, relationships, and outliers.
+
+**Topics Covered:**
+- Basic Data Insights: Shape, Describe, Info
+- Univariate Analysis: Countplot, Histogram, Distplot, Boxplot
+- Bivariate/Multivariate Analysis: Scatterplot, Barplot, Heatmap, Clustermap, Pairplot, Line Plot
+
